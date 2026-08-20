@@ -1,27 +1,23 @@
 # 👋 Hi, I'm Pratyush Manohar Kund
 
-### Staff Engineer | Java | Distributed Systems | Cloud Native | AI Engineering
+### Staff Engineer | Java | Distributed Systems | Reactive Systems | Full Stack
 
-I'm a software engineer with **11+ years of experience** building enterprise
+I'm a **Staff Engineer with 11+ years of experience** building enterprise
 applications, backend platforms and full-stack systems across cybersecurity,
 banking, lending, insurance, taxation and enterprise software.
 
-My strongest expertise is in **Java, Spring Boot, reactive programming,
-microservices and distributed backend systems**.
+My core expertise is in **Java, Spring Boot, reactive programming,
+microservices, REST APIs and full-stack development**.
 
-Currently, I'm working as a **Staff Engineer**, focusing on Java 21,
-Spring Reactive/WebFlux, React, TDD, product architecture and technical
-leadership.
-
-I'm also expanding my expertise into **cloud-native engineering and
-AI/GenAI application architecture**, with a focus on building practical,
-production-oriented systems.
+Currently, I work with **Java 21, Spring Reactive/WebFlux and React**, while
+also contributing to technical design, architecture discussions,
+troubleshooting and team-level technical leadership.
 
 ---
 
 ## 🧑‍💻 Core Expertise
 
-### Backend & Distributed Systems
+### Backend
 
 - Java 21
 - Spring Boot
@@ -30,21 +26,30 @@ production-oriented systems.
 - REST APIs
 - SOAP / Web Services
 - Hibernate / JPA
-- Kafka
-- Redis
+- Spring Data
 - Spring Batch
 - Multithreading & Concurrency
-- API Security
 - OAuth 2.0 / OIDC / JWT
+
+### Distributed & Event-Driven Systems
+
+- Apache Kafka
+- Redis
+- Asynchronous processing
+- Event-driven architecture
+- Caching
+- Resilience
+- API design
 
 ### Full Stack
 
 - React
 - Angular
 - JavaScript
-- TypeScript
 - HTML5
 - CSS3
+- Bootstrap
+- Responsive Web Development
 
 ### Databases
 
@@ -54,46 +59,57 @@ production-oriented systems.
 - SQL Server
 - MongoDB
 
-### Engineering & Architecture
+### Languages
+
+- Java
+- Kotlin
+- Scala
+- Go
+- Python
+- JavaScript
+- PL/SQL
+
+### Engineering
 
 - Object-Oriented Design
 - Design Patterns
 - SOLID
-- System Design
-- Microservice Architecture
-- Event-Driven Architecture
-- Reactive Systems
-- Performance Optimization
 - TDD
 - Agile / Scrum
-
-### DevOps & Platform
-
-- Git / GitHub
+- Git
 - Maven
 - Gradle
 - Jenkins
 - Docker
 - SonarQube
-- CI/CD
 
-### Additional Languages
+---
 
-- Kotlin
-- Scala
-- Go
-- Python
-- PL/SQL
+## 🏗️ Architecture & Engineering Interests
+
+I'm particularly interested in:
+
+- Distributed Systems
+- Microservice Architecture
+- Reactive Systems
+- Event-Driven Architecture
+- System Design
+- API Design
+- Scalability
+- Performance Optimization
+- Resilience & Fault Tolerance
+- Production Troubleshooting
+- Cloud-Native Architecture
 
 ---
 
 ## 🚀 Current Focus
 
-I'm currently exploring the intersection of:
+I'm currently expanding my expertise toward:
 
-**Distributed Systems + Cloud Native + AI Engineering**
+**Distributed Systems + Cloud-Native Engineering + AI Engineering**
 
-My current learning and engineering focus includes:
+Areas I'm exploring:
 
 - Python / FastAPI
 - LLM applications
@@ -102,26 +118,9 @@ My current learning and engineering focus includes:
 - Tool Calling
 - MCP
 - Vector Databases
-- AI System Design
-- Cloud-native architecture
-
----
-
-## 🏗️ Engineering Interests
-
-I enjoy solving problems involving:
-
-- Large-scale backend systems
-- Distributed systems
-- Microservices
-- Event-driven architecture
-- Reactive systems
-- API design
-- Scalability
-- Performance
-- Reliability
-- Production debugging
-- AI-powered enterprise applications
+- AI Application Architecture
+- AWS
+- Kubernetes
 
 ---
 
@@ -129,12 +128,14 @@ I enjoy solving problems involving:
 
 I'm documenting my preparation for senior/staff-level engineering roles.
 
-Areas I'm actively strengthening:
+### Focus Areas
 
 - Java & JVM
 - Data Structures & Algorithms
 - System Design
 - Distributed Systems
+- Spring Boot
+- Kafka & Redis
 - AWS
 - Kubernetes
 - AI / GenAI
@@ -142,14 +143,16 @@ Areas I'm actively strengthening:
 
 ---
 
-## 🎯 Career Direction
+## 🏆 Career Highlights
 
-My goal is to build and lead **scalable, resilient and intelligent software
-systems**, combining strong backend engineering with modern cloud and
-AI capabilities.
-
-> **Build systems that are simple to understand, resilient under failure,
-> observable in production and capable of evolving with business needs.**
+- 11+ years of software engineering experience
+- Currently working as a Staff Engineer
+- Experience across cybersecurity, banking, lending, insurance and
+  enterprise platforms
+- Strong Java and Spring ecosystem experience
+- Experience with reactive backend development using Spring WebFlux
+- Experience with React-based frontend development
+- Technical leadership and architecture participation
 
 ---
 
@@ -159,3 +162,5 @@ I'm interested in discussions around:
 
 **Java • Distributed Systems • System Design • Cloud • AI/GenAI •
 Engineering Leadership**
+
+Feel free to explore my repositories and connect with me.
